@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\bin\Debug\YardımUygulaması.exe.config
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\bin\Debug\YardımUygulaması.exe
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\bin\Debug\YardımUygulaması.pdb
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.Form1.resources
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.Properties.Resources.resources
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.exe
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.pdb
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.Form2.resources
+C:\Users\pc\source\repos\YardımUygulaması\YardımUygulaması\obj\Debug\YardımUygulaması.Form3.resources
